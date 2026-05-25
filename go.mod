@@ -1,4 +1,4 @@
-module github.com/richardartoul/gobuildcache
+module github.com/odsod/gobuildcache
 
 go 1.25
 

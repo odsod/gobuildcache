@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/richardartoul/gobuildcache/pkg/backends"
-	"github.com/richardartoul/gobuildcache/pkg/locking"
+	"github.com/odsod/gobuildcache/pkg/backends"
+	"github.com/odsod/gobuildcache/pkg/locking"
 )
 
 func TestFormatBytes(t *testing.T) {
